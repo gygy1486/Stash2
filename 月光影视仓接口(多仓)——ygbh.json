@@ -1,0 +1,9 @@
+//月光影视仓接口（多仓）
+//http://ygbh.live/ysc.php
+//http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/ygbh.json
+{
+"storeHouse": [
+{"sourceName":"🌙月光优选仓","sourceUrl":"http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
+{"sourceName":"🌙月光大佬","sourceUrl":"http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
+{"sourceName":"🌙月光宝盒仓","sourceUrl":"http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/c.txt"}
+]}
